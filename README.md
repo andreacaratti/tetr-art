@@ -19,7 +19,7 @@ Avant d’installer et d’exécuter le jeu, assurez-vous d’avoir :
 
     ```sh
     git clone https://github.com/andreacaratti/tetr-art.git
-    cd nom-du-projet
+    cd tetr-art
     ```
 
 2. **Créer un environnement virtuel** (optionnel mais recommandé) :
