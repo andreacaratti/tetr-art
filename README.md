@@ -18,7 +18,7 @@ Avant d’installer et d’exécuter le jeu, assurez-vous d’avoir :
 1. **Cloner le dépôt du projet** (ou télécharger les fichiers) :
 
     ```sh
-    git clone https://github.com/[ADRESSE À COMPLÉTER].git
+    git clone https://github.com/andreacaratti/tetr-art.git
     cd nom-du-projet
     ```
 
